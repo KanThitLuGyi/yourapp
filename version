@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/yourusername/yourapp/releases/download/v1.2.0/app-release.apk",
-  "force_update": false,
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/KanThitLuGyi/MHD-Apk/releases/download/v1.0.0/app-release.apk",
+  "force_update": true,
   "min_required_version": "1.0.0",
   "release_notes": "## What's New\n\n### ✨ New Features\n- Added dark mode support\n- New payment methods added\n- Enhanced security features\n\n### 🚀 Improvements\n- App performance improved by 40%\n- Reduced app size by 20%\n- Better battery optimization\n\n### 🐛 Bug Fixes\n- Fixed login issues\n- Resolved crash on startup\n- Fixed notification problems\n\n### 📱 Compatibility\n- Support for Android 15+\n- Better tablet layout\n- Accessibility improvements",
   "release_date": "2024-01-15",
